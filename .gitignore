@@ -5,6 +5,7 @@
 tags
 debug_*
 /local.properties
+local.properties
 .DS_Store
 /*/build/*
 /build/*
